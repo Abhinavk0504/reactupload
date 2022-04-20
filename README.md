@@ -1,13 +1,13 @@
-download from master.
-unzip it
-cd reactupload
-npm install
+1. download from master.
+2. unzip it
+3. cd reactupload
+4. npm install
 #inside package.json
 #delete homepage
 #insert
-"proxy":"http://localhost:5000",
+5. "proxy":"http://localhost:5000",
 #save and close
 #get into backend run the server.py file
-python3 server.py
+6. python3 server.py
 #for react
-npm start
+7. npm start
